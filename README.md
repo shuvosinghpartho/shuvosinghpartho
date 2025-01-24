@@ -39,7 +39,7 @@
   <a href="https://twitter.com/shuvosinghparth" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shuvosinghparth" height="30" width="40" />
   </a>
-  <a href="[https://linkedin.com/in/https://www.linkedin.com/in/shuvosinghpartho/](https://www.linkedin.com/in/shuvosinghpartho/)" target="blank">
+  <a href="https://www.linkedin.com/in/shuvosinghpartho/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://fb.com/https://www.facebook.com/shuvosiinghpartho" target="blank">
