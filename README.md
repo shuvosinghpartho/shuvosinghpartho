@@ -48,16 +48,16 @@
   <a href="https://www.instagram.com/shuvosinghpartho/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.codechef.com/users/https://www.codechef.com/users/partho_20" target="blank">
+  <a href="https://www.codechef.com/users/partho_20" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
   </a>
-  <a href="https://codeforces.com/profile/https://codeforces.com/profile/partho20" target="blank">
+  <a href="https://codeforces.com/profile/Partho20" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/https://leetcode.com/u/mr-singh13/" target="blank">
+  <a href="https://leetcode.com/u/mr-singh13/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/https://discord.com/channels/1228225191755386940/1228225192904364165" target="blank">
+  <a href="https://discord.com/channels/1228225191755386940/1228225192904364165" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
 </p>
