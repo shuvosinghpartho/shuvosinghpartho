@@ -42,10 +42,10 @@
   <a href="https://www.linkedin.com/in/shuvosinghpartho/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://fb.com/https://www.facebook.com/shuvosiinghpartho" target="blank">
+  <a href="https://www.facebook.com/shuvosiinghpartho" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/https://www.instagram.com/shuvosinghpartho/" target="blank">
+  <a href="https://www.instagram.com/shuvosinghpartho/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://www.codechef.com/users/https://www.codechef.com/users/partho_20" target="blank">
