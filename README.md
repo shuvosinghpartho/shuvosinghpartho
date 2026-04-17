@@ -168,5 +168,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1a1f35,100:0d1117&height=140&section=footer&animation=fadeIn"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=18&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+Let's+connect+%26+build+something+impactful+🚀;Open+to+collaborations+in+AI+%7C+ML+%7C+Research!;Feel+free+to+reach+out+—+singhcse20%40gmail.com" alt="Footer Typing"/>
+  <img src="[https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=18&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+Let's+connect+%26+build+something+impactful+🚀;Open+to+collaborations+in+AI+%7C+ML+%7C+Research!;Feel+free+to+reach+out+—+singhcse20%40gmail.com](https://media.tenor.com/iCqG_iT-h48AAAAM/bills-ugh.gif)" alt="Footer Typing"/>
 </p>
