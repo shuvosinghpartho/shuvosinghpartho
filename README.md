@@ -1,8 +1,7 @@
 ###
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 # 💫 Hi, I am Partho
-About Me:
-🔭 Diving deep into Machine Learning, Deep Learning & AI Research<br>🌱 Building expertise in Python, TensorFlow, PyTorch, Scikit-learn, Data Science<br>👯 Open to collaborate on AI/ML Projects, Research Papers & Open Source<br>💬 Ask me about Data Structures, Algorithms (C++), and ML Fundamentals<br>📫 Reach me at: partho23105101445@diu.edu.bd
+Diving deep into Machine Learning, Deep Learning & AI Research<br>🌱 Building expertise in Python, TensorFlow, PyTorch, Scikit-learn, Data Science<br>👯 Open to collaborate on AI/ML Projects, Research Papers & Open Source<br>💬 Ask me about Data Structures, Algorithms (C++), and ML Fundamentals<br>📫 Reach me at: partho23105101445@diu.edu.bd
 
 
 ## 🌐 Socials:
