@@ -1,4 +1,7 @@
-# 💫 About Me:
+### ✍️
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# 💫 Hi, I am Partho
+About Me:
 🔭 Diving deep into Machine Learning, Deep Learning & AI Research<br>🌱 Building expertise in Python, TensorFlow, PyTorch, Scikit-learn, Data Science<br>👯 Open to collaborate on AI/ML Projects, Research Papers & Open Source<br>💬 Ask me about Data Structures, Algorithms (C++), and ML Fundamentals<br>📫 Reach me at: partho23105101445@diu.edu.bd
 
 
@@ -15,8 +18,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shuvosinghpartho&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shuvosinghpartho&limit=5&theme=dark&combine_all_yearly_contributions=true)
